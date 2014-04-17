@@ -31,6 +31,12 @@
 
 - (IBAction)unwindToList:(UIStoryboardSegue *)segue
 {
+    XZZAddToDoItemViewController *source = [segue sourceViewController];
+    XZZToDoItem *item = source.toDoItem;
+    if (item != nil) {
+        [self.toDoItems addObject:item];
+        [self.tableView reloadData];
+    }
 }
 - (id)initWithStyle:(UITableViewStyle)style
 {

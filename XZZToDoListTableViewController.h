@@ -8,6 +8,7 @@
 
 #import <UIKit/UIKit.h>
 #import "XZZToDoItem.h"
+#import "XZZAddToDoItemViewController.h"
 
 @interface XZZToDoListTableViewController : UITableViewController
 - (IBAction)unwindToList:(UIStoryboardSegue *)segue;
