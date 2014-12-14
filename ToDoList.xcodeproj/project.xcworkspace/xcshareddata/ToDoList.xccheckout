@@ -10,29 +10,29 @@
 	<string>ToDoList</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>85D395B5-66D7-4452-930D-6A6CDA6CC81D</key>
-		<string>https://github.com/zacfirst/ToDoList.git</string>
+		<key>C0921FBB6269BD2E3D57D48B432670B00CC154DB</key>
+		<string>https://github.com/zac1st1k/ToDoList.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>ToDoList.xcodeproj/project.xcworkspace</string>
+	<string>ToDoList.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>85D395B5-66D7-4452-930D-6A6CDA6CC81D</key>
+		<key>C0921FBB6269BD2E3D57D48B432670B00CC154DB</key>
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/zacfirst/ToDoList.git</string>
+	<string>https://github.com/zac1st1k/ToDoList.git</string>
 	<key>IDESourceControlProjectVersion</key>
-	<integer>110</integer>
+	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>85D395B5-66D7-4452-930D-6A6CDA6CC81D</string>
+	<string>C0921FBB6269BD2E3D57D48B432670B00CC154DB</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>85D395B5-66D7-4452-930D-6A6CDA6CC81D</string>
+			<string>C0921FBB6269BD2E3D57D48B432670B00CC154DB</string>
 			<key>IDESourceControlWCCName</key>
 			<string>ToDoList</string>
 		</dict>
